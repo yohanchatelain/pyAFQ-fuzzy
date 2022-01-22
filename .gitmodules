@@ -1,0 +1,3 @@
+[submodule "pyAFQ"]
+	path = pyAFQ
+	url = https://github.com/yeatmanlab/pyAFQ.git
